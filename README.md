@@ -27,3 +27,6 @@ npm run webpack
 # start server
 rails s
 ```
+
+![Alt text](zipcal1.png?raw=true "Title")
+![Alt text](zipcal2.png?raw=true "Title")
